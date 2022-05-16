@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HappyHaru21
-- 👀 I’m interested in Python , Java , C# , Game moding
+- 👀 I’m interested in Python , Java , C# , C++ , Game moding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discussions about game modding
 - 📫 How to reach me Instagram:- happyharu_21
