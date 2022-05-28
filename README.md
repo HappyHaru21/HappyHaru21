@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HappyHaru21
+- 👋 Hi, I’m @HappyHaru21 (sidak)
 - 👀 I’m interested in Python , Java , C# , C++ , Game moding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on discussions about game modding
