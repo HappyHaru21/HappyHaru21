@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **react, django, game modeling**
 
-- 💬 Ask me about **javascript, python, c**
-
 - 📫 How to reach me **singh.sidak1deep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
