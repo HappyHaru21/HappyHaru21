@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Sidak</h1>
 
-- 🌱 I’m currently learning **react, django, game modeling**
+- 🌱 I’m currently learning **DNNs, RAGs, SpringBoot**
 
 - 📫 How to reach me **singh.sidak1deep@gmail.com**
 
